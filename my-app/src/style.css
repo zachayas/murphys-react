@@ -1,6 +1,7 @@
 .ui.borderless.topmenu.menu {
   box-shadow: none;
   border: none;
+  padding-top: 15px;
 }
 
 .ui.borderless.secondmenu.menu {
@@ -14,6 +15,11 @@
   height: 500px;
   color: white;
 }
+
+.ui.centered.two.column.grid{
+  height: 500px;
+}
+
 
 .right.floated.center.aligned.hbtitle.column {
   padding-top: 300px;
